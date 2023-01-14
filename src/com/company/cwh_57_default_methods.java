@@ -46,7 +46,7 @@ class MySmartPhone extends MyCellPhone implements MyCamera, MyWifi {
 
     @Override
     public void openCamera() {
-        System.out.println("Camera opened.");
+        System.out.println("Camera Opened.");
     }
 
     @Override
